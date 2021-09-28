@@ -1,8 +1,6 @@
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
 <title> practica</title>
-
   </head>
   <link rel = "stylesheet" href="css.css">
   <link rel = "stylesheet" href="style.css">
